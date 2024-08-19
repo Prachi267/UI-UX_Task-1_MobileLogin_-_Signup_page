@@ -1,1 +1,1 @@
-# UI-UX_Task-1_MobileLogin_-_Signup_page
+# UI-UX_Task-2_EmailTemplate_MakeupandHaircare_Productspage.
